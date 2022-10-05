@@ -4,6 +4,5 @@
 
 asdf
 asdf
-asdf
-wegqwe
-OH GOOD GODOG OD
+
+아주 잘 되고있요
